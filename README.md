@@ -6,7 +6,7 @@ PawCare – Pet Care Service UI/UX Design (Figma)
 PawCare is a UI/UX design project developed in Figma for a pet care service platform that assists pet owners in browsing pet care services and scheduling appointments with ease. The project aims to design a friendly, trustworthy, and intuitive user experience through effective layouts, visual hierarchyand interactions.
 
 Project Overview
-The purpose of this project was to design a clean and intuitive interface that makes it easy for pet owners to browse pet care services and schedule appointments.
+The purpose of this project was to design a clean, intuitive interface and mobile responsive UI that makes it easy for pet owners to browse pet care services and schedule appointments.
 
 Homepage Features
 The homepage is intended to make a great first impression with the use of attractive pet images and a value proposition. The homepage features a simple navigation bar for easy access to primary actions, showcases top services with distinctive cards, and establishes trust with customer testimonials featuring ratings. A nearby map for pet parents further emphasizes local presence and authenticity, with ratings and booking data further enhancing user trust.
